@@ -155,7 +155,7 @@
   </url>
   
   <url>
-    <loc>https://xiaoplong.github.io/tags/</loc>
+    <loc>https://xiaoplong.github.io/videos/</loc>
     
     <lastmod>2022-10-12</lastmod>
     
@@ -164,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://xiaoplong.github.io/videos/</loc>
+    <loc>https://xiaoplong.github.io/tags/</loc>
     
     <lastmod>2022-10-12</lastmod>
     
@@ -182,15 +182,6 @@
   </url>
   
   <url>
-    <loc>https://xiaoplong.github.io/long-title/</loc>
-    
-    <lastmod>2022-10-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://xiaoplong.github.io/markdown/</loc>
     
     <lastmod>2022-10-12</lastmod>
@@ -200,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://xiaoplong.github.io/link-post-without-title/</loc>
+    <loc>https://xiaoplong.github.io/long-title/</loc>
     
     <lastmod>2022-10-12</lastmod>
     
@@ -209,7 +200,7 @@
   </url>
   
   <url>
-    <loc>https://xiaoplong.github.io/excerpts/</loc>
+    <loc>https://xiaoplong.github.io/link-post-without-title/</loc>
     
     <lastmod>2022-10-12</lastmod>
     
@@ -228,6 +219,15 @@
   
   <url>
     <loc>https://xiaoplong.github.io/gallery-post/</loc>
+    
+    <lastmod>2022-10-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoplong.github.io/excerpts/</loc>
     
     <lastmod>2022-10-12</lastmod>
     
@@ -284,13 +284,6 @@
   </url>
   
   <url>
-    <loc>https://xiaoplong.github.io/tags/java/</loc>
-    <lastmod>2023-03-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://xiaoplong.github.io/tags/vim/</loc>
     <lastmod>2023-03-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -306,6 +299,13 @@
   
   <url>
     <loc>https://xiaoplong.github.io/tags/Shell/</loc>
+    <lastmod>2023-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoplong.github.io/tags/java/</loc>
     <lastmod>2023-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -342,21 +342,7 @@
   </url>
   
   <url>
-    <loc>https://xiaoplong.github.io/categories/computer-science/java/</loc>
-    <lastmod>2023-03-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://xiaoplong.github.io/categories/computer-science/vim/</loc>
-    <lastmod>2023-03-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiaoplong.github.io/categories/computer-science/java/course-1/</loc>
     <lastmod>2023-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -370,7 +356,21 @@
   </url>
   
   <url>
+    <loc>https://xiaoplong.github.io/categories/computer-science/java/</loc>
+    <lastmod>2023-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://xiaoplong.github.io/categories/computer-science/Linux/Linux%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%92%8CShell%E6%8C%87%E4%BB%A4/</loc>
+    <lastmod>2023-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoplong.github.io/categories/computer-science/java/course-1/</loc>
     <lastmod>2023-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
