@@ -18,6 +18,8 @@
             <guid isPermalink="true">https://xiaoplong.github.io/java%E5%90%8E%E7%AB%AF/</guid>
             <title>java后端面试</title>
             <link>https://xiaoplong.github.io/java%E5%90%8E%E7%AB%AF/</link>
+            <category term="java" scheme="https://xiaoplong.github.io/tags/java/" />
+            <category term="Spring" scheme="https://xiaoplong.github.io/tags/Spring/" />
             <pubDate>Sat, 01 Apr 2023 15:23:19 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;java后端&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#java后端&#34;&gt;#&lt;/a&gt; java 后端&lt;/h1&gt;
 &lt;p&gt;相关内容参考连接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jbG91ZC50ZW5jZW50LmNvbS9kZXZlbG9wZXIvYXJ0aWNsZS8xNDI3MjE5&#34;&gt;https://cloud.tencent.com/developer/article/1427219&lt;/span&gt;&lt;/p&gt;
@@ -1233,6 +1235,33 @@ A. 瑕疵&lt;/p&gt;
  ]]></description>
         </item>
         <item>
+            <guid isPermalink="true">https://xiaoplong.github.io/%E5%9F%9F%E5%90%8D%E8%AE%BF%E9%97%AE%E5%92%8Cip%E8%AE%BF%E9%97%AE/</guid>
+            <title>网站的两种访问</title>
+            <link>https://xiaoplong.github.io/%E5%9F%9F%E5%90%8D%E8%AE%BF%E9%97%AE%E5%92%8Cip%E8%AE%BF%E9%97%AE/</link>
+            <pubDate>Sun, 13 Nov 2022 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;网站的访问&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网站的访问&#34;&gt;#&lt;/a&gt; 网站的访问&lt;/h1&gt;
+&lt;p&gt;访问网站有两种方式：IP 地址或域名。&lt;/p&gt;
+&lt;p&gt;一般的网站都只允许通过域名网址访问。&lt;/p&gt;
+&lt;p&gt;域名（Domain Name）都有它的后缀，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3huLS1idnMzOTNiLmNvbQ==&#34;&gt;比如.com&lt;/span&gt;,.cn,.net 等。&lt;/p&gt;
+&lt;h2 id=&#34;ip访问&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ip访问&#34;&gt;#&lt;/a&gt; ip 访问&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;网站都是存放在服务器上的，网站在服务器上有一个地址，也就是这个网站的IP地址。IP地址可以由机器直接识别。&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;直接输入这个 IP 地址，即可直接访问这个网站。&lt;/p&gt;
+&lt;p&gt;但是由于 IP 地址是一串数字，太难记了，于是就有了域名访问和 DNS。&lt;/p&gt;
+&lt;h2 id=&#34;域名访问&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#域名访问&#34;&gt;#&lt;/a&gt; 域名访问&lt;/h2&gt;
+&lt;p&gt;域名访问网址即在浏览器直接输入网站的网址就可以访问网站了。&lt;/p&gt;
+&lt;p&gt;但是实际上，输入域名（DN）后，DNS（网域名称系统）将域名转换为了对应的 IP 地址，方便机器识别。&lt;/p&gt;
+&lt;h3 id=&#34;域名dn-domain-name&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#域名dn-domain-name&#34;&gt;#&lt;/a&gt; 域名 DN （Domain Name）&lt;/h3&gt;
+&lt;p&gt;简称域名，网域，是由一串用点分隔的名字组成的 Internet 上某一台计算机或者计算机组的名称。&lt;/p&gt;
+&lt;p&gt;用于在数据传输时标识计算机的电子方位（或者物理位置）。&lt;/p&gt;
+&lt;h2 id=&#34;网域名称系统-dns&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网域名称系统-dns&#34;&gt;#&lt;/a&gt; 网域名称系统 DNS&lt;/h2&gt;
+&lt;p&gt;DNS 有时简称域名，是因特网的一项核心服务。&lt;/p&gt;
+&lt;p&gt;DNS 就是把网址和网站的 ip 地址对应起来，这样输入网址，就相当于输入了网站的 ip 地址，就可以访问网站了。这里的网址也就是域名。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;DNS将域名和IP地址相互映射成一个分布式数据库。&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;如 www.wikesa.org 是一个域名，在这个数据库中，和 IP 地址 208.80.152.2 相对应。输入域名就可以直接访问这个 IP 地址的网站了。&lt;/p&gt;
+&lt;p&gt;DNS 就像是一个自动的电话号码簿，可以直接拨打 www.wikesa.org 的名字来替代电话号码（Ip 地址）。我们直接调用网站的名字后， &lt;code&gt;DNS会将域名www.wikesa.org转化成便于机器识别的IP地址。&lt;/code&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
             <guid isPermalink="true">https://xiaoplong.github.io/%E7%88%AC%E8%99%AB/</guid>
             <title>爬虫</title>
             <link>https://xiaoplong.github.io/%E7%88%AC%E8%99%AB/</link>
@@ -1402,33 +1431,6 @@ TCP/IP 有个面向连接的特性，保证了数据的完整性。&lt;/p&gt;
 &lt;p&gt;ACK 应答报文 Acknowledgement 确定字符&lt;/p&gt;
 &lt;p&gt;ESTABLISHED established 连接的&lt;/p&gt;
 &lt;p&gt;SYN Synchronized Sequence Numbers 同步序列编号&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://xiaoplong.github.io/%E5%9F%9F%E5%90%8D%E8%AE%BF%E9%97%AE%E5%92%8Cip%E8%AE%BF%E9%97%AE/</guid>
-            <title>网站的两种访问</title>
-            <link>https://xiaoplong.github.io/%E5%9F%9F%E5%90%8D%E8%AE%BF%E9%97%AE%E5%92%8Cip%E8%AE%BF%E9%97%AE/</link>
-            <pubDate>Sun, 13 Nov 2022 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;网站的访问&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网站的访问&#34;&gt;#&lt;/a&gt; 网站的访问&lt;/h1&gt;
-&lt;p&gt;访问网站有两种方式：IP 地址或域名。&lt;/p&gt;
-&lt;p&gt;一般的网站都只允许通过域名网址访问。&lt;/p&gt;
-&lt;p&gt;域名（Domain Name）都有它的后缀，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3huLS1idnMzOTNiLmNvbQ==&#34;&gt;比如.com&lt;/span&gt;,.cn,.net 等。&lt;/p&gt;
-&lt;h2 id=&#34;ip访问&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ip访问&#34;&gt;#&lt;/a&gt; ip 访问&lt;/h2&gt;
-&lt;p&gt;&lt;code&gt;网站都是存放在服务器上的，网站在服务器上有一个地址，也就是这个网站的IP地址。IP地址可以由机器直接识别。&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;直接输入这个 IP 地址，即可直接访问这个网站。&lt;/p&gt;
-&lt;p&gt;但是由于 IP 地址是一串数字，太难记了，于是就有了域名访问和 DNS。&lt;/p&gt;
-&lt;h2 id=&#34;域名访问&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#域名访问&#34;&gt;#&lt;/a&gt; 域名访问&lt;/h2&gt;
-&lt;p&gt;域名访问网址即在浏览器直接输入网站的网址就可以访问网站了。&lt;/p&gt;
-&lt;p&gt;但是实际上，输入域名（DN）后，DNS（网域名称系统）将域名转换为了对应的 IP 地址，方便机器识别。&lt;/p&gt;
-&lt;h3 id=&#34;域名dn-domain-name&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#域名dn-domain-name&#34;&gt;#&lt;/a&gt; 域名 DN （Domain Name）&lt;/h3&gt;
-&lt;p&gt;简称域名，网域，是由一串用点分隔的名字组成的 Internet 上某一台计算机或者计算机组的名称。&lt;/p&gt;
-&lt;p&gt;用于在数据传输时标识计算机的电子方位（或者物理位置）。&lt;/p&gt;
-&lt;h2 id=&#34;网域名称系统-dns&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网域名称系统-dns&#34;&gt;#&lt;/a&gt; 网域名称系统 DNS&lt;/h2&gt;
-&lt;p&gt;DNS 有时简称域名，是因特网的一项核心服务。&lt;/p&gt;
-&lt;p&gt;DNS 就是把网址和网站的 ip 地址对应起来，这样输入网址，就相当于输入了网站的 ip 地址，就可以访问网站了。这里的网址也就是域名。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;DNS将域名和IP地址相互映射成一个分布式数据库。&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;如 www.wikesa.org 是一个域名，在这个数据库中，和 IP 地址 208.80.152.2 相对应。输入域名就可以直接访问这个 IP 地址的网站了。&lt;/p&gt;
-&lt;p&gt;DNS 就像是一个自动的电话号码簿，可以直接拨打 www.wikesa.org 的名字来替代电话号码（Ip 地址）。我们直接调用网站的名字后， &lt;code&gt;DNS会将域名www.wikesa.org转化成便于机器识别的IP地址。&lt;/code&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
